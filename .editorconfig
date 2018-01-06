@@ -1,0 +1,7 @@
+[*]
+
+encoding = utf-8
+line_endings = crlf
+
+indent_style = space
+indent_size = 4
